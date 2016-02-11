@@ -1,0 +1,14 @@
+/*
+Theme Name: ICARE - Nonprofit, Fundraising WordPress Theme
+Theme URI: http://themes.esmeth.com/icare/
+Author: Esmeth Team
+Author URI: http://www.esmeth.com
+Description: Premium Nonprofit & Charity theme
+Version: 1.2
+Tags: fluid-layout, responsive-layout, translation-ready
+License: GNU General Public License v3
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Template: icare_theme
+*/
+
+@import url("../icare_theme/style.css");

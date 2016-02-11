@@ -1,0 +1,1949 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ICARE\n"
+"POT-Creation-Date: 2015-03-09 17:34-0300\n"
+"PO-Revision-Date: 2015-03-09 17:36-0300\n"
+"Last-Translator: Farg CG <marcc3d@gmail.com>\n"
+"Language-Team: Marcos <marcc3d@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/options/assets\n"
+"X-Poedit-SearchPathExcluded-1: admin/options/extensions\n"
+"X-Poedit-SearchPathExcluded-2: admin/options/inc\n"
+"X-Poedit-SearchPathExcluded-3: admin/options/languages\n"
+"X-Poedit-SearchPathExcluded-4: admin/options/framework.php\n"
+
+#: 404.php:19
+msgid "Oooops"
+msgstr ""
+
+#: 404.php:20
+msgid "There is Nothing Here."
+msgstr ""
+
+#: admin/options/admin-config.php:4
+msgid ""
+"You can copy/download your current options settings. This is a backup "
+"solution in case anything goes wrong."
+msgstr ""
+
+#: admin/options/admin-config.php:34 admin/options/admin-config.php:59
+msgid "ICARE Options Panel"
+msgstr ""
+
+#: admin/options/admin-config.php:55
+msgid "ICARE Options"
+msgstr ""
+
+#: admin/options/admin-config.php:81
+msgid "General"
+msgstr ""
+
+#: admin/options/admin-config.php:82
+msgid "Welcome to the Esmeth Options Framework"
+msgstr ""
+
+#: admin/options/admin-config.php:92
+msgid "Custom Logo & Icones Options"
+msgstr ""
+
+#: admin/options/admin-config.php:93
+msgid "Choose your own logo, favicon and apple touch icons."
+msgstr ""
+
+#: admin/options/admin-config.php:101
+msgid "Logo"
+msgstr ""
+
+#: admin/options/admin-config.php:103
+msgid "Upload custom logo to your website."
+msgstr ""
+
+#: admin/options/admin-config.php:110
+msgid "Your Favicon"
+msgstr ""
+
+#: admin/options/admin-config.php:112
+msgid ""
+"Upload a file( png, ico, jpg, gif or bmp ) from your computer (maximum "
+"size:1MB )."
+msgstr ""
+
+#: admin/options/admin-config.php:119
+msgid "Apple touch icon"
+msgstr ""
+
+#: admin/options/admin-config.php:121 admin/options/admin-config.php:130
+#: admin/options/admin-config.php:139
+msgid "Upload your touch icon here."
+msgstr ""
+
+#: admin/options/admin-config.php:128
+msgid "Apple touch icon 72x72"
+msgstr ""
+
+#: admin/options/admin-config.php:137
+msgid "Apple touch icon 144x144"
+msgstr ""
+
+#: admin/options/admin-config.php:145
+msgid "Additional Options"
+msgstr ""
+
+#: admin/options/admin-config.php:146
+msgid ""
+"Back to top button, custom search results page and category for home urgent "
+"causes button."
+msgstr ""
+
+#: admin/options/admin-config.php:153
+msgid "Causes search results page"
+msgstr ""
+
+#: admin/options/admin-config.php:154
+msgid "Paste here the slug of your search results page for causes post type."
+msgstr ""
+
+#: admin/options/admin-config.php:161
+msgid "Homepage urgent cause section"
+msgstr ""
+
+#: admin/options/admin-config.php:162
+msgid "Choose a category for the home page urgent cause widget."
+msgstr ""
+
+#: admin/options/admin-config.php:171
+msgid "Show / Hide back to top button"
+msgstr ""
+
+#: admin/options/admin-config.php:172
+msgid "Enable or disable the back to top button."
+msgstr ""
+
+#: admin/options/admin-config.php:174 admin/options/admin-config.php:231
+#: admin/options/admin-config.php:738 admin/options/admin-config.php:760
+#: admin/options/admin-config.php:769 admin/options/admin-config.php:778
+#: admin/options/admin-config.php:788 admin/options/admin-config.php:843
+#: admin/options/admin-config.php:972
+msgid "On"
+msgstr ""
+
+#: admin/options/admin-config.php:175 admin/options/admin-config.php:232
+#: admin/options/admin-config.php:739 admin/options/admin-config.php:761
+#: admin/options/admin-config.php:770 admin/options/admin-config.php:779
+#: admin/options/admin-config.php:789 admin/options/admin-config.php:844
+#: admin/options/admin-config.php:973
+msgid "Off"
+msgstr ""
+
+#: admin/options/admin-config.php:181
+msgid "Contact Map Settings"
+msgstr ""
+
+#: admin/options/admin-config.php:182
+msgid ""
+"Enter the required infos below to show a google map in your contact page."
+msgstr ""
+
+#: admin/options/admin-config.php:189
+msgid "Google map latitude info"
+msgstr ""
+
+#: admin/options/admin-config.php:190
+msgid "Paste here the latitude info of your google map."
+msgstr ""
+
+#: admin/options/admin-config.php:197
+msgid "Google map longetude info"
+msgstr ""
+
+#: admin/options/admin-config.php:198
+msgid "Paste here the longetude info of your google map."
+msgstr ""
+
+#: admin/options/admin-config.php:205
+msgid "Google map zoom info"
+msgstr ""
+
+#: admin/options/admin-config.php:206
+msgid "Adjust the zoom of the map to best suit your needs."
+msgstr ""
+
+#: admin/options/admin-config.php:221
+msgid "Paypal"
+msgstr ""
+
+#: admin/options/admin-config.php:228
+msgid "Paypal sandbox mode"
+msgstr ""
+
+#: admin/options/admin-config.php:229
+msgid "Enable or disable sandbox mode for test purposes."
+msgstr ""
+
+#: admin/options/admin-config.php:238 core/includes/meta-boxes.php:99
+msgid "Paypal account"
+msgstr ""
+
+#: admin/options/admin-config.php:239
+msgid "Type the E-mail address of your Paypal account."
+msgstr ""
+
+#: admin/options/admin-config.php:246
+msgid "Paypal logo"
+msgstr ""
+
+#: admin/options/admin-config.php:248
+msgid "Upload your custom logo for your paypal page."
+msgstr ""
+
+#: admin/options/admin-config.php:260
+msgid "Paypal currency code"
+msgstr ""
+
+#: admin/options/admin-config.php:261
+msgid "Choose a currency code for your Paypal transactions."
+msgstr ""
+
+#: admin/options/admin-config.php:284
+msgid "Paypal currency sign"
+msgstr ""
+
+#: admin/options/admin-config.php:285
+msgid "Choose a currency sign for your Paypal transactions."
+msgstr ""
+
+#: admin/options/admin-config.php:308
+msgid "Typography"
+msgstr ""
+
+#: admin/options/admin-config.php:319
+msgid "Body"
+msgstr ""
+
+#: admin/options/admin-config.php:333
+msgid "Choose custom font options to use for the main body text."
+msgstr ""
+
+#: admin/options/admin-config.php:345
+msgid "Headings"
+msgstr ""
+
+#: admin/options/admin-config.php:359
+msgid "Choose custom font options to use for the headings (h1, h2, h3,...)"
+msgstr ""
+
+#: admin/options/admin-config.php:376
+msgid "Styling"
+msgstr ""
+
+#: admin/options/admin-config.php:383
+msgid "General Styling Options"
+msgstr ""
+
+#: admin/options/admin-config.php:384
+msgid "General styles for buttons and link colors."
+msgstr ""
+
+#: admin/options/admin-config.php:391
+msgid "General links color"
+msgstr ""
+
+#: admin/options/admin-config.php:392
+msgid "Choose color for links."
+msgstr ""
+
+#: admin/options/admin-config.php:401
+msgid "Accent Color"
+msgstr ""
+
+#: admin/options/admin-config.php:402
+msgid "Choose color for link hover states and general accent color."
+msgstr ""
+
+#: admin/options/admin-config.php:411
+msgid "Button color"
+msgstr ""
+
+#: admin/options/admin-config.php:412 admin/options/admin-config.php:422
+#: admin/options/admin-config.php:432 admin/options/admin-config.php:450
+#: admin/options/admin-config.php:508
+msgid "Choose color."
+msgstr ""
+
+#: admin/options/admin-config.php:421
+msgid "Button hover color"
+msgstr ""
+
+#: admin/options/admin-config.php:431
+msgid "Button text color"
+msgstr ""
+
+#: admin/options/admin-config.php:441
+msgid "Header Styling Options"
+msgstr ""
+
+#: admin/options/admin-config.php:442
+msgid "Header styles for background, text and lines."
+msgstr ""
+
+#: admin/options/admin-config.php:449
+msgid "Header background color"
+msgstr ""
+
+#: admin/options/admin-config.php:459
+msgid "Header alternate color"
+msgstr ""
+
+#: admin/options/admin-config.php:460
+msgid "Choose color for social icons and main navigation backgrounds."
+msgstr ""
+
+#: admin/options/admin-config.php:469
+msgid "Header lines and separator color"
+msgstr ""
+
+#: admin/options/admin-config.php:470
+msgid "Choose color for lines and separators."
+msgstr ""
+
+#: admin/options/admin-config.php:479
+msgid "Header links color"
+msgstr ""
+
+#: admin/options/admin-config.php:480
+msgid "Choose color for header links."
+msgstr ""
+
+#: admin/options/admin-config.php:489
+msgid "Header links hover color"
+msgstr ""
+
+#: admin/options/admin-config.php:490
+msgid "Choose color for header links hover state."
+msgstr ""
+
+#: admin/options/admin-config.php:499
+msgid "Main Navigation Styling Options"
+msgstr ""
+
+#: admin/options/admin-config.php:500
+msgid "styles for main navigation."
+msgstr ""
+
+#: admin/options/admin-config.php:507
+msgid "Main navigation background color"
+msgstr ""
+
+#: admin/options/admin-config.php:517
+msgid "Main navigation lines color"
+msgstr ""
+
+#: admin/options/admin-config.php:518
+msgid "Choose color for main navigation lines and separators."
+msgstr ""
+
+#: admin/options/admin-config.php:527
+msgid "Dropdown background color"
+msgstr ""
+
+#: admin/options/admin-config.php:528
+msgid "Choose color for main navigation dropdown background color."
+msgstr ""
+
+#: admin/options/admin-config.php:537
+msgid "Dropdown lines color"
+msgstr ""
+
+#: admin/options/admin-config.php:538
+msgid "Choose color for main navigation dropdown lines and separators."
+msgstr ""
+
+#: admin/options/admin-config.php:547
+msgid "Main navigation link color"
+msgstr ""
+
+#: admin/options/admin-config.php:548
+msgid "Choose color for main navigation links."
+msgstr ""
+
+#: admin/options/admin-config.php:557
+msgid "Main navigation link hover color"
+msgstr ""
+
+#: admin/options/admin-config.php:558
+msgid "Choose color for main navigation links hover state."
+msgstr ""
+
+#: admin/options/admin-config.php:567
+msgid "Main navigation link active color"
+msgstr ""
+
+#: admin/options/admin-config.php:568
+msgid "Choose color for main navigation links active state."
+msgstr ""
+
+#: admin/options/admin-config.php:577
+msgid "Footer Styling Options"
+msgstr ""
+
+#: admin/options/admin-config.php:578
+msgid "Styles for footer."
+msgstr ""
+
+#: admin/options/admin-config.php:585
+msgid "Primary footer background color"
+msgstr ""
+
+#: admin/options/admin-config.php:586
+msgid "Choose a background color for top footer."
+msgstr ""
+
+#: admin/options/admin-config.php:595
+msgid "Primary footer alternate background color"
+msgstr ""
+
+#: admin/options/admin-config.php:596
+msgid "Choose a background color for social icons in the footer."
+msgstr ""
+
+#: admin/options/admin-config.php:605
+msgid "Primary footer headings color"
+msgstr ""
+
+#: admin/options/admin-config.php:606
+msgid "Choose a color for footer headings."
+msgstr ""
+
+#: admin/options/admin-config.php:615
+msgid "Primary footer text color"
+msgstr ""
+
+#: admin/options/admin-config.php:616
+msgid "Choose a color for footer text."
+msgstr ""
+
+#: admin/options/admin-config.php:625
+msgid "Primary footer link color"
+msgstr ""
+
+#: admin/options/admin-config.php:626
+msgid "Choose a color for footer links."
+msgstr ""
+
+#: admin/options/admin-config.php:635
+msgid "Primary footer link hover color"
+msgstr ""
+
+#: admin/options/admin-config.php:636
+msgid "Choose a color for footer links hover state."
+msgstr ""
+
+#: admin/options/admin-config.php:645
+msgid "Secondary footer background color"
+msgstr ""
+
+#: admin/options/admin-config.php:646
+msgid "Choose a background color for bottom footer."
+msgstr ""
+
+#: admin/options/admin-config.php:655
+msgid "Secondary footer headings color"
+msgstr ""
+
+#: admin/options/admin-config.php:656
+msgid "Choose a color for footer bottom headings."
+msgstr ""
+
+#: admin/options/admin-config.php:665
+msgid "Secondary footer text color"
+msgstr ""
+
+#: admin/options/admin-config.php:666
+msgid "Choose a color for footer bottom text."
+msgstr ""
+
+#: admin/options/admin-config.php:675
+msgid "Secondary footer link color"
+msgstr ""
+
+#: admin/options/admin-config.php:676
+msgid "Choose a color for footer bottom links."
+msgstr ""
+
+#: admin/options/admin-config.php:685
+msgid "Secondary footer link hover color"
+msgstr ""
+
+#: admin/options/admin-config.php:686
+msgid "Choose a color for footer bottom links hover state."
+msgstr ""
+
+#: admin/options/admin-config.php:695
+msgid "Secondary footer lines and separators color"
+msgstr ""
+
+#: admin/options/admin-config.php:696
+msgid "Choose a color for footer lines and separator."
+msgstr ""
+
+#: admin/options/admin-config.php:709
+msgid "Blog Setting"
+msgstr ""
+
+#: admin/options/admin-config.php:717
+msgid "Blog layout"
+msgstr ""
+
+#: admin/options/admin-config.php:718
+msgid "Select list or grid for the default blog layout."
+msgstr ""
+
+#: admin/options/admin-config.php:735
+msgid "Blog meta info"
+msgstr ""
+
+#: admin/options/admin-config.php:736
+msgid ""
+"Enable or disable the meta information for blog posts (date, author, "
+"comments)."
+msgstr ""
+
+#: admin/options/admin-config.php:750
+msgid "Header"
+msgstr ""
+
+#: admin/options/admin-config.php:757
+msgid "Show / Hide top header info"
+msgstr ""
+
+#: admin/options/admin-config.php:758
+msgid ""
+"Enable or disable the info located on top of the header site (mail, "
+"telephone and top menu)."
+msgstr ""
+
+#: admin/options/admin-config.php:766
+msgid "Show / Hide header search box"
+msgstr ""
+
+#: admin/options/admin-config.php:767
+msgid "Enable or disable the header search box."
+msgstr ""
+
+#: admin/options/admin-config.php:775
+msgid "Show / Hide header social icons"
+msgstr ""
+
+#: admin/options/admin-config.php:776
+msgid "Enable or disable the header social icons."
+msgstr ""
+
+#: admin/options/admin-config.php:785
+msgid "Show / Hide header Donate Now button"
+msgstr ""
+
+#: admin/options/admin-config.php:786
+msgid "Enable or disable the header Donate Now button."
+msgstr ""
+
+#: admin/options/admin-config.php:794
+msgid "Donate Now button"
+msgstr ""
+
+#: admin/options/admin-config.php:795
+msgid "The URL to the header Donate Now button."
+msgstr ""
+
+#: admin/options/admin-config.php:803
+msgid "Type your phone"
+msgstr ""
+
+#: admin/options/admin-config.php:809
+msgid "Type your email"
+msgstr ""
+
+#: admin/options/admin-config.php:819
+msgid "Footer"
+msgstr ""
+
+#: admin/options/admin-config.php:826
+msgid "Copyright"
+msgstr ""
+
+#: admin/options/admin-config.php:827
+msgid "Type your website copyright."
+msgstr ""
+
+#: admin/options/admin-config.php:834
+msgid "Type additional info for footer (e.g website developed by your company)"
+msgstr ""
+
+#: admin/options/admin-config.php:840
+msgid "Footer layout"
+msgstr ""
+
+#: admin/options/admin-config.php:841
+msgid "Enable or disable the extended footer layout."
+msgstr ""
+
+#: admin/options/admin-config.php:854
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/options/admin-config.php:860
+msgid "CSS Code"
+msgstr ""
+
+#: admin/options/admin-config.php:861
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: admin/options/admin-config.php:873
+msgid "SEO"
+msgstr ""
+
+#: admin/options/admin-config.php:880
+msgid "Meta Author"
+msgstr ""
+
+#: admin/options/admin-config.php:881
+msgid "Type your meta author."
+msgstr ""
+
+#: admin/options/admin-config.php:888
+msgid "Meta Description"
+msgstr ""
+
+#: admin/options/admin-config.php:889
+msgid "Type your meta description."
+msgstr ""
+
+#: admin/options/admin-config.php:896
+msgid "Meta Keyword"
+msgstr ""
+
+#: admin/options/admin-config.php:897
+msgid "Type your meta keyword."
+msgstr ""
+
+#: admin/options/admin-config.php:904
+msgid "Google Analytics Code"
+msgstr ""
+
+#: admin/options/admin-config.php:905
+msgid ""
+"Paste your Google Analytics javascript or other tracking code here. This "
+"code will be added before the closing <head> tag."
+msgstr ""
+
+#: admin/options/admin-config.php:918
+msgid "Social Networks"
+msgstr ""
+
+#: admin/options/admin-config.php:925
+msgid "Facebook"
+msgstr ""
+
+#: admin/options/admin-config.php:926
+msgid "Insert your Facebook fanpage here."
+msgstr ""
+
+#: admin/options/admin-config.php:933
+msgid "Twitter"
+msgstr ""
+
+#: admin/options/admin-config.php:934
+msgid "Insert your Twitter URL here."
+msgstr ""
+
+#: admin/options/admin-config.php:942
+msgid "Linkedin"
+msgstr ""
+
+#: admin/options/admin-config.php:943
+msgid "Insert your Linkedin URL here."
+msgstr ""
+
+#: admin/options/admin-config.php:951
+msgid "Flickr"
+msgstr ""
+
+#: admin/options/admin-config.php:952
+msgid "Insert your Flickr URL here."
+msgstr ""
+
+#: admin/options/admin-config.php:960
+msgid "Youtube"
+msgstr ""
+
+#: admin/options/admin-config.php:961
+msgid "Insert your Youtube URL here."
+msgstr ""
+
+#: admin/options/admin-config.php:969
+msgid "RSS Icon"
+msgstr ""
+
+#: admin/options/admin-config.php:970
+msgid "Show / Hide RSS icon."
+msgstr ""
+
+#: blog-grid.php:32 blog-list.php:22 page-home.php:196
+msgid " with "
+msgstr ""
+
+#: blog-grid.php:34 blog-list.php:24 page-home.php:198
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: blog-grid.php:42 blog-list.php:31 page-contact.php:33 page-fullwidth.php:28
+#: page-home.php:88 page.php:26 single-cause.php:121 single-event.php:113
+#: single-staff.php:74
+msgid "No posts found."
+msgstr ""
+
+#: cause-search.php:2
+msgid "Find and donate now!"
+msgstr ""
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:38 comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:39 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:81
+msgid "Leave Us A Comment"
+msgstr ""
+
+#: comments.php:83 comments.php:85
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:89
+msgid "Your Comment:"
+msgstr ""
+
+#: comments.php:89
+msgid "Feel free to type"
+msgstr ""
+
+#: comments.php:96
+msgid "First Name:"
+msgstr ""
+
+#: comments.php:96
+msgid "Put your name here"
+msgstr ""
+
+#: comments.php:103 single-event.php:91
+msgid "Email:"
+msgstr ""
+
+#: comments.php:103
+msgid "Put your email here"
+msgstr ""
+
+#: comments.php:110
+msgid "URL:"
+msgstr ""
+
+#: comments.php:110
+msgid "Put your website here"
+msgstr ""
+
+#: comments.php:120
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: core/includes/ajax-loadmore.php:16
+msgid "No More Items To Load"
+msgstr ""
+
+#: core/includes/ajax-loadmore.php:20
+msgid "Load More"
+msgstr ""
+
+#: core/includes/back-compat.php:30 core/includes/back-compat.php:36
+#, php-format
+msgid ""
+"ICARE requires at least WordPress version 3.6. You are running version %s. "
+"Please upgrade and try again."
+msgstr ""
+
+#: core/includes/back-compat.php:51
+#, php-format
+msgid ""
+"Universe requires at least WordPress version 3.6. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:164
+#: core/includes/register-plugins.php:104
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:165
+#: core/includes/register-plugins.php:105
+msgid "Install Plugins"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:166
+#: core/includes/register-plugins.php:106
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:178
+#: core/includes/class-tgm-plugin-activation.php:490
+#: core/includes/register-plugins.php:118
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:179
+#: core/includes/class-tgm-plugin-activation.php:1846
+#: core/includes/register-plugins.php:119
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:517
+#: core/includes/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1956
+#: core/includes/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1956
+#: core/includes/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/includes/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/includes/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: core/includes/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-advanced.php:23
+#: core/includes/meta-box/inc/fields/plupload-image.php:104
+msgid "Select Files"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-advanced.php:64
+msgid "Select or Upload Files"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-advanced.php:100
+#: core/includes/meta-box/inc/fields/file.php:137
+#: core/includes/meta-box/inc/fields/image-advanced.php:106
+#: core/includes/meta-box/inc/fields/image.php:136
+msgid "Delete"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-advanced.php:101
+#: core/includes/meta-box/inc/fields/file.php:138
+#: core/includes/meta-box/inc/fields/image-advanced.php:107
+#: core/includes/meta-box/inc/fields/image.php:137
+msgid "Edit"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file.php:83
+msgid "Upload Files"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/file.php:84
+msgid "+ Add new file"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/image-advanced.php:70
+msgid "Select or Upload Images"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/image.php:70
+#: core/includes/meta-box/inc/fields/thickbox-image.php:34
+msgid "Upload Images"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/image.php:71
+msgid "+ Add new image"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/plupload-image.php:102
+msgid "Drop images here"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/plupload-image.php:103
+msgid "or"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/plupload-image.php:179
+msgid "Allowed Image Files"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: core/includes/meta-box/inc/fields/post.php:66
+#: core/includes/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: core/includes/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: core/includes/meta-boxes.php:33
+msgid "Slide Options"
+msgstr ""
+
+#: core/includes/meta-boxes.php:38
+msgid "Show Slide Caption?"
+msgstr ""
+
+#: core/includes/meta-boxes.php:39
+msgid "Check to show slide captions."
+msgstr ""
+
+#: core/includes/meta-boxes.php:45
+msgid "Slide URL"
+msgstr ""
+
+#: core/includes/meta-boxes.php:47
+msgid "Enter the url for the slide caption (Do not forget the http://)."
+msgstr ""
+
+#: core/includes/meta-boxes.php:54
+msgid "Slide Caption"
+msgstr ""
+
+#: core/includes/meta-boxes.php:56
+msgid "Enter a brief caption for the slide."
+msgstr ""
+
+#: core/includes/meta-boxes.php:71
+msgid "Causes Options"
+msgstr ""
+
+#: core/includes/meta-boxes.php:76
+msgid "How much does this cause need?"
+msgstr ""
+
+#: core/includes/meta-boxes.php:77
+msgid "Enter the ammount needed for this cause."
+msgstr ""
+
+#: core/includes/meta-boxes.php:85
+msgid "Donations so far"
+msgstr ""
+
+#: core/includes/meta-boxes.php:86
+msgid "Enter the ammount of donations collected."
+msgstr ""
+
+#: core/includes/meta-boxes.php:94
+msgid "$"
+msgstr ""
+
+#: core/includes/meta-boxes.php:95
+msgid " USD"
+msgstr ""
+
+#: core/includes/meta-boxes.php:100
+msgid ""
+"Enter the Paypal account for this specific cause.<br> <strong> Leave it "
+"black to use the global Paypal account defined in theme options.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:114
+msgid "Members Options"
+msgstr ""
+
+#: core/includes/meta-boxes.php:119
+msgid "Member Position"
+msgstr ""
+
+#: core/includes/meta-boxes.php:121
+msgid "Enter the member role <strong>(e.g CEO).</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:127
+msgid "Twitter Profile"
+msgstr ""
+
+#: core/includes/meta-boxes.php:129
+msgid ""
+"Enter the member twitter profile URL. <strong>Leave it blank to hide icon on "
+"front-end.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:136
+msgid "Facebook Profile"
+msgstr ""
+
+#: core/includes/meta-boxes.php:138
+msgid ""
+"Enter the member facebook profile URL. <strong>Leave it blank to hide icon "
+"on front-end.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:145
+msgid "Google+ Profile"
+msgstr ""
+
+#: core/includes/meta-boxes.php:147
+msgid ""
+"Enter the member google+ profile URL. <strong>Leave it blank to hide icon on "
+"front-end.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:154
+msgid "Linkedin Profile"
+msgstr ""
+
+#: core/includes/meta-boxes.php:156
+msgid ""
+"Enter the member linkedin profile URL. <strong>Leave it blank to hide icon "
+"on front-end.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:163
+msgid "Pinterest Profile"
+msgstr ""
+
+#: core/includes/meta-boxes.php:165
+msgid ""
+"Enter the member pinterest profile URL. <strong>Leave it blank to hide icon "
+"on front-end.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:182
+msgid "Testimonials Options"
+msgstr ""
+
+#: core/includes/meta-boxes.php:187
+msgid "Author"
+msgstr ""
+
+#: core/includes/meta-boxes.php:196
+msgid "Position"
+msgstr ""
+
+#: core/includes/meta-boxes.php:198
+msgid "Enter the author position <strong>(e.g CEO).</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:213
+msgid "Events Options"
+msgstr ""
+
+#: core/includes/meta-boxes.php:221
+msgid "Event Location"
+msgstr ""
+
+#: core/includes/meta-boxes.php:223
+msgid "Enter the event location <strong>(e.g Wheaton, MD)</strong>."
+msgstr ""
+
+#: core/includes/meta-boxes.php:230
+msgid "Event Phone"
+msgstr ""
+
+#: core/includes/meta-boxes.php:232
+msgid "Enter the event phone."
+msgstr ""
+
+#: core/includes/meta-boxes.php:239
+msgid "Event Email"
+msgstr ""
+
+#: core/includes/meta-boxes.php:241
+msgid "Enter the event E-mail address."
+msgstr ""
+
+#: core/includes/meta-boxes.php:248
+msgid "Event Website"
+msgstr ""
+
+#: core/includes/meta-boxes.php:250
+msgid "Enter the event website."
+msgstr ""
+
+#: core/includes/meta-boxes.php:257
+msgid "Event Date"
+msgstr ""
+
+#: core/includes/meta-boxes.php:259
+msgid "Click to choose a date for the event."
+msgstr ""
+
+#: core/includes/meta-boxes.php:264
+msgid "dd MM yy"
+msgstr ""
+
+#: core/includes/meta-boxes.php:272
+msgid "Event Start Time"
+msgstr ""
+
+#: core/includes/meta-boxes.php:274
+msgid "Click to choose the event start time."
+msgstr ""
+
+#: core/includes/meta-boxes.php:288
+msgid "Event End Time"
+msgstr ""
+
+#: core/includes/meta-boxes.php:290
+msgid "Click to choose the event end time."
+msgstr ""
+
+#: core/includes/meta-boxes.php:305
+msgid "Event Address"
+msgstr ""
+
+#: core/includes/meta-boxes.php:306
+msgid ""
+"Enter the event full address. <strong>Notice: This will be the address "
+"showed in the map.</strong>"
+msgstr ""
+
+#: core/includes/meta-boxes.php:308
+msgid "Salvador - BA, República Federativa do Brasil"
+msgstr ""
+
+#: core/includes/meta-boxes.php:313
+msgid "Event Address Map"
+msgstr ""
+
+#: core/includes/register-plugins.php:107
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/includes/register-plugins.php:120
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: core/includes/shortcodes/tinymce/dialog.php:23
+msgid "Shortcode Options"
+msgstr ""
+
+#: core/includes/theme-functions.php:14
+msgid "Thumbnail"
+msgstr ""
+
+#: core/includes/theme-functions.php:39
+msgid "None"
+msgstr ""
+
+#: core/includes/theme-functions.php:118
+msgid "Type your keyword, name or anything..."
+msgstr ""
+
+#: core/includes/theme-functions.php:131
+msgid "Search Now"
+msgstr ""
+
+#: core/includes/theme-functions.php:192
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: core/includes/theme-functions.php:193
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: core/includes/theme-functions.php:207
+msgid "Page"
+msgstr ""
+
+#: core/includes/theme-functions.php:207
+msgid "of"
+msgstr ""
+
+#: core/includes/theme-functions.php:241
+msgid "Older Posts"
+msgstr ""
+
+#: core/includes/theme-functions.php:242
+msgid "Newer Posts"
+msgstr ""
+
+#: core/includes/theme-functions.php:248
+msgid "Older Events"
+msgstr ""
+
+#: core/includes/theme-functions.php:249
+msgid "Newer Events"
+msgstr ""
+
+#: core/includes/theme-functions.php:254
+msgid "Older Causes"
+msgstr ""
+
+#: core/includes/theme-functions.php:255
+msgid "Newer Causes"
+msgstr ""
+
+#: core/includes/theme-functions.php:447
+msgid "Home"
+msgstr ""
+
+#: core/includes/theme-functions.php:464 core/includes/theme-functions.php:491
+msgid "Blog"
+msgstr ""
+
+#: core/includes/theme-functions.php:468
+msgid "Categories Archives: \""
+msgstr ""
+
+#: core/includes/theme-functions.php:471
+msgid "Search for: \""
+msgstr ""
+
+#: core/includes/theme-functions.php:524
+msgid "Tag Archives: \""
+msgstr ""
+
+#: core/includes/theme-functions.php:529
+msgid "by "
+msgstr ""
+
+#: core/includes/theme-functions.php:532
+msgid "404"
+msgstr ""
+
+#: core/includes/theme-init.php:67
+msgid "Homepage Top Content"
+msgstr ""
+
+#: core/includes/theme-init.php:69
+msgid "Located at the top left side of the homepage. (beside slider)"
+msgstr ""
+
+#: core/includes/theme-init.php:78
+msgid "Homepage Bottom Content"
+msgstr ""
+
+#: core/includes/theme-init.php:80
+msgid "Located at the bottom of the homepage."
+msgstr ""
+
+#: core/includes/theme-init.php:90
+msgid "Sidebar"
+msgstr ""
+
+#: core/includes/theme-init.php:92
+msgid "Located at the left/right side of pages."
+msgstr ""
+
+#: core/includes/theme-init.php:102
+msgid "#Footer Top Area 1"
+msgstr ""
+
+#: core/includes/theme-init.php:104 core/includes/theme-init.php:116
+#: core/includes/theme-init.php:128 core/includes/theme-init.php:140
+#: core/includes/theme-init.php:152 core/includes/theme-init.php:164
+#: core/includes/theme-init.php:176
+msgid "Located at the bottom of pages."
+msgstr ""
+
+#: core/includes/theme-init.php:114
+msgid "#Footer Top Area 2"
+msgstr ""
+
+#: core/includes/theme-init.php:126
+msgid "#Footer Top Area 3"
+msgstr ""
+
+#: core/includes/theme-init.php:138
+msgid "#Footer Bottom Area 1"
+msgstr ""
+
+#: core/includes/theme-init.php:150
+msgid "#Footer Bottom Area 2"
+msgstr ""
+
+#: core/includes/theme-init.php:162
+msgid "#Footer Bottom Area 3"
+msgstr ""
+
+#: core/includes/theme-init.php:174
+msgid "#Footer Bottom Area 4"
+msgstr ""
+
+#: core/includes/theme-init.php:195
+msgid "Slides"
+msgstr ""
+
+#: core/includes/theme-init.php:196
+msgid "Slide"
+msgstr ""
+
+#: core/includes/theme-init.php:197
+msgid "Home Slides"
+msgstr ""
+
+#: core/includes/theme-init.php:198
+msgid "Parent Slide:"
+msgstr ""
+
+#: core/includes/theme-init.php:199
+msgid "All Slides"
+msgstr ""
+
+#: core/includes/theme-init.php:200
+msgid "View Slide"
+msgstr ""
+
+#: core/includes/theme-init.php:201 core/includes/theme-init.php:202
+msgid "Add New Slide"
+msgstr ""
+
+#: core/includes/theme-init.php:203
+msgid "Edit Slide"
+msgstr ""
+
+#: core/includes/theme-init.php:204
+msgid "Update Slide"
+msgstr ""
+
+#: core/includes/theme-init.php:205
+msgid "Search Slide"
+msgstr ""
+
+#: core/includes/theme-init.php:206 core/includes/theme-init.php:266
+#: core/includes/theme-init.php:348 core/includes/theme-init.php:407
+#: core/includes/theme-init.php:466
+msgid "Not found"
+msgstr ""
+
+#: core/includes/theme-init.php:207 core/includes/theme-init.php:267
+#: core/includes/theme-init.php:349 core/includes/theme-init.php:408
+#: core/includes/theme-init.php:467
+msgid "Not found in Trash"
+msgstr ""
+
+#: core/includes/theme-init.php:210 core/includes/theme-init.php:216
+msgid "slide"
+msgstr ""
+
+#: core/includes/theme-init.php:217
+msgid "Slide Post Type"
+msgstr ""
+
+#: core/includes/theme-init.php:255 core/includes/theme-init.php:257
+msgid "Causes"
+msgstr ""
+
+#: core/includes/theme-init.php:256
+msgid "Cause"
+msgstr ""
+
+#: core/includes/theme-init.php:258
+msgid "Parent Cause:"
+msgstr ""
+
+#: core/includes/theme-init.php:259
+msgid "All Causes"
+msgstr ""
+
+#: core/includes/theme-init.php:260
+msgid "View Cause"
+msgstr ""
+
+#: core/includes/theme-init.php:261 core/includes/theme-init.php:262
+msgid "Add New Cause"
+msgstr ""
+
+#: core/includes/theme-init.php:263
+msgid "Edit Cause"
+msgstr ""
+
+#: core/includes/theme-init.php:264
+msgid "Update Cause"
+msgstr ""
+
+#: core/includes/theme-init.php:265
+msgid "Search Cause"
+msgstr ""
+
+#: core/includes/theme-init.php:270 core/includes/theme-init.php:276
+msgid "cause"
+msgstr ""
+
+#: core/includes/theme-init.php:277
+msgid "Cause Post Type"
+msgstr ""
+
+#: core/includes/theme-init.php:301 core/includes/theme-init.php:309
+msgid "Causes Categories"
+msgstr ""
+
+#: core/includes/theme-init.php:302
+msgid "Causes Category"
+msgstr ""
+
+#: core/includes/theme-init.php:303
+msgid "Search Causes Categories"
+msgstr ""
+
+#: core/includes/theme-init.php:304
+msgid "All Causes Categories"
+msgstr ""
+
+#: core/includes/theme-init.php:305
+msgid "Parent Cause Category"
+msgstr ""
+
+#: core/includes/theme-init.php:306
+msgid "Edit Cause Category"
+msgstr ""
+
+#: core/includes/theme-init.php:307
+msgid "Update Cause Category"
+msgstr ""
+
+#: core/includes/theme-init.php:308
+msgid "Add New Cause Category"
+msgstr ""
+
+#: core/includes/theme-init.php:318
+msgid "cause-category"
+msgstr ""
+
+#: core/includes/theme-init.php:337 core/includes/theme-init.php:338
+#: core/includes/theme-init.php:339
+msgid "Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:340
+msgid "Parent Staff:"
+msgstr ""
+
+#: core/includes/theme-init.php:341
+msgid "All Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:342
+msgid "View Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:343 core/includes/theme-init.php:344
+msgid "Add New Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:345
+msgid "Edit Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:346
+msgid "Update Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:347
+msgid "Search Staff"
+msgstr ""
+
+#: core/includes/theme-init.php:352 core/includes/theme-init.php:358
+msgid "staff"
+msgstr ""
+
+#: core/includes/theme-init.php:359
+msgid "Staff Post Type"
+msgstr ""
+
+#: core/includes/theme-init.php:396 core/includes/theme-init.php:398
+#: core/includes/widgets/core-testimonials.php:24
+msgid "Testimonials"
+msgstr ""
+
+#: core/includes/theme-init.php:397
+msgid "Testimonial"
+msgstr ""
+
+#: core/includes/theme-init.php:399
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: core/includes/theme-init.php:400
+msgid "All Testimonials"
+msgstr ""
+
+#: core/includes/theme-init.php:401
+msgid "View Testimonial"
+msgstr ""
+
+#: core/includes/theme-init.php:402 core/includes/theme-init.php:403
+msgid "Add New Testimonial"
+msgstr ""
+
+#: core/includes/theme-init.php:404
+msgid "Edit Testimonial"
+msgstr ""
+
+#: core/includes/theme-init.php:405
+msgid "Update Testimonial"
+msgstr ""
+
+#: core/includes/theme-init.php:406
+msgid "Search Testimonials"
+msgstr ""
+
+#: core/includes/theme-init.php:411 core/includes/theme-init.php:417
+msgid "testimonial"
+msgstr ""
+
+#: core/includes/theme-init.php:418
+msgid "Testimonial Post Type"
+msgstr ""
+
+#: core/includes/theme-init.php:455 core/includes/theme-init.php:457
+msgid "Events"
+msgstr ""
+
+#: core/includes/theme-init.php:456
+msgid "Event"
+msgstr ""
+
+#: core/includes/theme-init.php:458
+msgid "Parent Event:"
+msgstr ""
+
+#: core/includes/theme-init.php:459
+msgid "All Events"
+msgstr ""
+
+#: core/includes/theme-init.php:460
+msgid "View Event"
+msgstr ""
+
+#: core/includes/theme-init.php:461 core/includes/theme-init.php:462
+msgid "Add New Event"
+msgstr ""
+
+#: core/includes/theme-init.php:463
+msgid "Edit Event"
+msgstr ""
+
+#: core/includes/theme-init.php:464
+msgid "Update Event"
+msgstr ""
+
+#: core/includes/theme-init.php:465
+msgid "Search Event"
+msgstr ""
+
+#: core/includes/theme-init.php:470 core/includes/theme-init.php:476
+msgid "event"
+msgstr ""
+
+#: core/includes/theme-init.php:477
+msgid "Event Post Type"
+msgstr ""
+
+#: core/includes/widgets/core-flickr.php:16
+msgid "Core Flickr Widget"
+msgstr ""
+
+#: core/includes/widgets/core-flickr.php:17
+msgid "Displays a flickr feed."
+msgstr ""
+
+#: core/includes/widgets/core-latest-causes.php:17
+msgid "Core Recent Causes"
+msgstr ""
+
+#: core/includes/widgets/core-latest-causes.php:18
+msgid "Displays recent causes."
+msgstr ""
+
+#: core/includes/widgets/core-latest-causes.php:24
+msgid "Recent Causes"
+msgstr ""
+
+#: core/includes/widgets/core-latest-causes.php:28
+#: core/includes/widgets/core-latest-events.php:29
+#: core/includes/widgets/core-testimonials.php:29
+msgid "Title"
+msgstr ""
+
+#: core/includes/widgets/core-latest-causes.php:32
+#: core/includes/widgets/core-latest-events.php:33
+#: core/includes/widgets/core-testimonials.php:33
+msgid "Numbers of item to show:"
+msgstr ""
+
+#: core/includes/widgets/core-latest-events.php:17
+msgid "Core Latest Events"
+msgstr ""
+
+#: core/includes/widgets/core-latest-events.php:18
+msgid "Displays latest events."
+msgstr ""
+
+#: core/includes/widgets/core-latest-events.php:24
+msgid "Upcoming Events"
+msgstr ""
+
+#: core/includes/widgets/core-testimonials.php:17
+msgid "Core Testimonials"
+msgstr ""
+
+#: core/includes/widgets/core-testimonials.php:18
+msgid "Displays testimonials with thumbs."
+msgstr ""
+
+#: footer.php:27
+msgid "Stay in touch with us"
+msgstr ""
+
+#: header.php:60 header.php:149 page-causes-3cols.php:97
+#: page-causes-4cols.php:95 page-causes-search-results.php:89
+#: page-causes-sidebar.php:88 page-home.php:159 single-cause.php:74
+#: single-cause.php:97
+msgid "Donate Now"
+msgstr ""
+
+#: page-archives.php:20
+msgid "Latest 10 Posts"
+msgstr ""
+
+#: page-archives.php:29
+msgid "Archives by Month"
+msgstr ""
+
+#: page-archives.php:35
+msgid "Archives by Categories"
+msgstr ""
+
+#: page-causes-3cols.php:74 page-causes-4cols.php:72
+#: page-causes-search-results.php:99 page-causes-sidebar.php:98
+#: page-home.php:136 single-cause.php:110
+msgid "Raised: "
+msgstr ""
+
+#: page-causes-3cols.php:75 page-causes-4cols.php:73
+#: page-causes-search-results.php:100 page-causes-sidebar.php:99
+#: page-home.php:137 single-cause.php:111
+msgid "Goal: "
+msgstr ""
+
+#: page-causes-3cols.php:87 page-causes-4cols.php:85
+#: page-causes-search-results.php:79 page-causes-sidebar.php:78
+#: page-home.php:149 single-cause.php:64 single-cause.php:87
+msgid "Donate to the "
+msgstr ""
+
+#: page-causes-search-results.php:104 page-causes-sidebar.php:103
+#: page-staff-3cols.php:61 page-staff-sidebar.php:60
+msgid "Read More &rarr;"
+msgstr ""
+
+#: page-causes-search-results.php:111
+msgid "Nothing Found. Try another search criteria."
+msgstr ""
+
+#: page-events.php:30
+msgid "Location Not Set"
+msgstr ""
+
+#: page-events.php:34
+msgid "Date Not Set"
+msgstr ""
+
+#: page-home.php:35
+msgid "Urgent Cause"
+msgstr ""
+
+#: page-home.php:95
+msgid "Last Cause List"
+msgstr ""
+
+#: page-home.php:180
+msgid "Latest News"
+msgstr ""
+
+#: page-title.php:8
+msgid "&larr; Go back Home"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search the site..."
+msgstr ""
+
+#: sidebar.php:16
+msgid ""
+"No widgets assigned. Go to <strong>Dashboard > Appearance > Widgets</strong> "
+"to assign a widget to this area"
+msgstr ""
+
+#: single-cause.php:82
+msgid "Needed Donation"
+msgstr ""
+
+#: single-cause.php:113
+msgid " by "
+msgstr ""
+
+#: single-event.php:70
+msgid "Date:"
+msgstr ""
+
+#: single-event.php:77
+msgid "Time:"
+msgstr ""
+
+#: single-event.php:84
+msgid "Phone:"
+msgstr ""
+
+#: single-event.php:98
+msgid "Website:"
+msgstr ""
+
+#: single.php:26
+msgid "No Comments"
+msgstr ""
+
+#: single.php:26
+msgid "One Comment "
+msgstr ""
+
+#: single.php:26
+msgid "% Comments"
+msgstr ""
+
+#: slider.php:16
+msgid "Read More"
+msgstr ""

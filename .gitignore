@@ -1,0 +1,10 @@
+wp-config.php
+wp-content/uploads
+wp-content/uploads.old
+wp-content/uploads*
+wp-content/cache
+wp-content/debug.log
+wp-content/anvelope.csv
+
+wp-content/themes/a2/npm-debug.log
+wp-content/themes/a2/node_modules
